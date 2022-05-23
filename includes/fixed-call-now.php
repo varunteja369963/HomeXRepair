@@ -1,0 +1,1 @@
+<section class="call-now-bar"><a onclick="gtag_report_conversion();" href="tel:18008330206"><span class="fa fa-phone"></span>1800-833-0206</a></section>
